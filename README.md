@@ -20,8 +20,8 @@ I’m a data analysis. I have experience with over 1 year of expertise in evalua
 
 ### My Projects:
 
-* [Data Analysis](https://github.com/wannaya26/Data_Analysis)
 * [Data Science Bootcamp](https://github.com/wannaya26/data-science-bootcamp-8)
+* [Data Analysis](https://github.com/wannaya26/Data_Analysis)
 * [Certificate](https://github.com/wannaya26/Certificate)
 
 #
