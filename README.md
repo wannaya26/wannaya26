@@ -21,7 +21,7 @@ I’m a data analysis. I have experience with over 1 year of expertise in evalua
 ### My Projects:
 
 * [Data Science Bootcamp](https://github.com/wannaya26/data-science-bootcamp-8)
-* [Data Analysis](https://github.com/wannaya26/Data_Analysis)
+* [Data Analysis](https://github.com/wannaya26/Data-Analysis)
 * [Certificate](https://github.com/wannaya26/Certificate)
 
 #
