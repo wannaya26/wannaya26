@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wannaya-chinsaard-a5068720a/)
 
-I’m a data analyst with over 1 year of experience in evaluating dashboards and developing KPI reports in the field of digital marketing.
+I’m a data analyst with over 2 years of experience in evaluating dashboards and developing KPI reports in the field of digital marketing.
 
 * 📚 I’m currently learning data science
 * 👀 I’m looking to collaborate on technology company
