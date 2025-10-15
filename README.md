@@ -1,4 +1,4 @@
-# Hi, I'm Fang [Wannaya](https://github.com/wannaya26)
+# Hi, I'm [Wannaya](https://github.com/wannaya26)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wannaya-chinsaard-a5068720a/)
 
