@@ -20,7 +20,7 @@ I’m a data analyst with over 2 years of experience in evaluating dashboards an
 
 ### My Projects:
 
-* [Data Analysis](https://github.com/wannaya26/Data-Analysis)
+* [Data Analysis & Portfolio](https://github.com/wannaya26/Data-Analysis)
 * [Data Science Bootcamp](https://github.com/wannaya26/data-science-bootcamp-8)
 * [Certificate](https://github.com/wannaya26/Certification)
 
